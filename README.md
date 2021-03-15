@@ -4,3 +4,4 @@ You can use the [editor on GitHub](https://github.com/Fazil-Jahangir/Fazil-Jahan
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+Your site is ready to be published at https://fazil-jahangir.github.io/.
